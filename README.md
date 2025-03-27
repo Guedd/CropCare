@@ -16,3 +16,4 @@ A Vision Language Model (VLM) can process both images and text, such as generati
 for our implementation we are aiming to re-config the LLaVa-Vicuna model to use our finetuned PLLaMa model as text generator insted of Vicuna, for this resoan we have generated our dataset, a combanitaton of image and text descriptions, to help train LLaVa-PLLaMa.
 
 ## Dataset
+For the Dataset, we searched for a potato leaf diseases dataset that could be used for the CropCare prototype. You can read more about the data preprocessing and its usage in the "[Data](https://github.com/Guedd/CropCare/tree/main/Data#readme)" folder.
